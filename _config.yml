@@ -11,8 +11,8 @@ locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Carine Abraham"
 title_separator          : "-"
-name                     : &name "Carine Abraham"
-description              : &description "personal description"
+name                     : "Carine Abraham"
+description              : "personal description"
 url                      : https://carinea.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/CarineAbraham.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "carinea/CarineAbraham.github.io"
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
