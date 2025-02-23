@@ -22,14 +22,14 @@ repository               : "carinea/CarineAbraham.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.jpg"
   name             : "Carine Abraham"
   pronouns         : "She/Her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Scotland"
-  employer         : "University of Edinburgh"
+  employer         : "Tutor and Evaluation Officer @ University of Edinburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "carine.abraham@ed.ac.uk"
 
   # Academic websites
  # arxiv            : # URL - Update with the correct link to your profile
