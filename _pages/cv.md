@@ -11,41 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Linguistics and English Language, University of Edinburgh, 2025 (expected)
+* MSc in Developmental Linguistics, University of Edinburgh, 2016 
+* BA, Psychology (minors in Linguistics and Cognitive Science), Rutgers University, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 - Present: Evaluation Officer, uCreate, University of Edinburgh
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - Present: Tutor, School of Philosophy, Psychology, and Language Sciences, University of Edinburgh
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Research Project Assistant, Bilingualism Matters 
+
+* 2018: Research Assistant, Bilingualism Matters
+
+* 2013-2014: Research Assistant, Language Acquisition and Processing Lab at Rutgers University
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Able to efficiently communicate in multilingual and multicultural environments 
+* R
+* Python
+* SQL
+* HTML
+* CSS
+* JavaScript 
+* JsPsych
+* Avid knitter
+* Microsoft Office Suite, including PowerBI
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
@@ -59,6 +55,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Development
 ======
-* Currently signed in to 43 different slack teams
+* 8/2024 -	Learning PowerBI Desktop, LinkedIn Learning 
+* 11/2024 -	Good Feedback: Asking for it; getting it; and responding to it, Institute for Academic Development, University of Edinburgh 
+* 12/2019 -	Academic Leadership, Institute for Academic Development, University of Edinburgh 
+* 6/2017 -	Transparent practices for protecting your research from bias: Theory and practice in behavioural research -  workshop, University of Edinburgh
+

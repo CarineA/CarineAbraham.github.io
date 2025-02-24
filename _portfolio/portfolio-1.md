@@ -1,5 +1,6 @@
 ---
-title: "Much Language Such Talk"A language podcast answering your questions about languages, language learning, and culture!<br/><img src='/images/MLST logo full.png'>"
+title: "Much Language Such Talk"
+excerpt: A language podcast answering your questions about languages, language learning, and culture!<br/><img src='/images/MLST logo full.png'>"
 collection: portfolio
 ---
 
