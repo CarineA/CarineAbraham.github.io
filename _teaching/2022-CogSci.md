@@ -7,7 +7,7 @@ venue: "University of Edinburgh, Linguistics and English Language"
 date: 2022-09-19
 ---
 
-Undergraduate introductory course into Cognitive Science, additionally includes workshops teaching Python
+Undergraduate introductory course into Cognitive Science, additionally includes workshops teaching Python.
 
 ### Course summary
 This course introduces students to Cognitive Science, a field at the intersection of several disciplines including philosophy, psychology, linguistics, anthropology, computer science, human-computer interaction, and neuroscience.
