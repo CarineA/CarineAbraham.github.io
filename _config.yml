@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Carine Abraham"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Carine Abraham"
 description              : "personal description"
